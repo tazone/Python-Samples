@@ -1,0 +1,14 @@
+#Simplier version
+#this line is for *nix users.
+#!/usr/bin/env python 
+#chcaracter encoding
+# -*- coding: utf-8 -*- 
+#header
+"""
+ File name: 2-app-header-examples.py
+ Author: tazone
+ Date created: 2018-08-04
+ Date last modified: 2018-08-04
+ Python Version: 3.6.5
+"""
+
